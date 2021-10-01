@@ -3,7 +3,7 @@
 
 // Color presets //
 COLOR_GRAY: #939FB5;                            // #999999
-COLOR_DARK: #1A1B26;                            // Main color (dark one)
+COLOR_DARK: #16161E;                            // Main color (tokyonight)
 COLOR_BLUE_DARK: #5E81AC;                      // Accent color
 COLOR_BLUE_LIGHT: #81A1C1;                     // Accent color #2 (just like first one with slight changes)
 COLOR_CYAN_RIPPLE_ACTIVE: #88C0D0;
@@ -271,7 +271,7 @@ historyScrollBarBgOver: #56B5C2bc;              // Scrollbar (history view) back
 historyScrollBg: #626D704d;                     // Scrollbar (history view) current position background
 historyScrollBgOver: #64707580;                 // Scrollbar (history view) current position background (hover)
 
-msgInBg: #1A1B26;                               // Incoming message background
+msgInBg: #16161E;                               // Incoming message background
 msgInBgSelected: #363E4D;                       // Selected incoming message background
 msgOutBg: #4C566A;                              // Outgoing message background
 msgOutBgSelected: #404959;                      // Selected outgoing message background
